@@ -32,11 +32,11 @@
 ## How the website looks like
 
 <p align="center">
-<img src="desktop.gif" max-width=600px>
+<img src="./assets/desktop.gif" max-width=600px>
 </p>
 
 ---
 
 <p align="center">
-<img src="mobile.gif" max-width=400px>
+<img src="./assets/mobile.gif" max-width=400px>
 </p>
